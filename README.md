@@ -20,6 +20,7 @@ A simple PHP application demonstrating user authentication with registration, lo
 4. Run the project using XAMPP or another local PHP server.
 
 ## Example
+
 ![Example](example.gif)
 
 ## Disclaimer
