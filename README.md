@@ -19,13 +19,8 @@ A simple PHP application demonstrating user authentication with registration, lo
 3. Update database credentials in `includes/connection.inc.php` as needed.
 4. Run the project using XAMPP or another local PHP server.
 
-## File Structure
-
-- `index.php` — Home page
-- `login.php` — Login form
-- `register.php` — Registration form
-- `includes/` — PHP scripts for database connection and authentication logic
-- `db/database.sql` — Database schema
+## Example
+![Example](example.gif)
 
 ## Disclaimer
 
